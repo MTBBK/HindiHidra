@@ -3,4 +3,4 @@ Hindi Hidra is a tower defense game developed for a GameJam. Built with the Godo
 
 This project was created by team Can Bonomo ve Godotçular.
 
-Note: This project was developed under GameJam constraints. Assets used may be subject to their respective licenses.
+` Note: This project was developed under GameJam constraints. Assets used may be subject to their respective licenses. `
