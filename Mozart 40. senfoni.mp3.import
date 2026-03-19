@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bt2ju46asvfsb"
+path="res://.godot/imported/Mozart 40. senfoni.mp3-b02ad485d76a02006dc5e67f80bf50cb.mp3str"
+
+[deps]
+
+source_file="res://Mozart 40. senfoni.mp3"
+dest_files=["res://.godot/imported/Mozart 40. senfoni.mp3-b02ad485d76a02006dc5e67f80bf50cb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
